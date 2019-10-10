@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22dee1ae-3937-4db5-90dc-4331afff71c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Unit 1/Reports/Assignment 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 1/Reports/Exploring Careers in Computing.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 1/Reports/File Structure.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 1/Reports/Investigating Career Trends.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 1/Reports/Purchasing a New Computer.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 1/Reports/Safeguarding Your Computer System.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 1/Reports/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/PDF_Files/U2A3AST1KunwarNir.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/PDF_Files/U2A3ASTKunwarNir.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/PDF_Files/U2ACT1A1KunwarNir.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/PDF_Files/U2ACT2KunwarNir.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/build/classes/u2a4KunwarNir/JFrameTesterPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/build/classes/u2a4KunwarNir/U2A4FastFood.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/build/classes/u2a4KunwarNir/U2A4Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/src/u2a4KunwarNir/JFrameTesterPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/src/u2a4KunwarNir/U2A4FastFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A4KunwarNir/src/u2a4KunwarNir/U2A4Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/src/u2a5kunwarnir/GuessingGameJFrameTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/src/u2a5kunwarnir/HurricaneJFrameTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/src/u2a5kunwarnir/SaleJFrameTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/src/u2a5kunwarnir/U2A5GuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/src/u2a5kunwarnir/U2A5Hurricane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A5KunwarNir/src/u2a5kunwarnir/U2A5Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/build/classes/u2a6knir/CDCalculaorJFrameTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/build/classes/u2a6knir/FunWithLoopsJFrameTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/build/classes/u2a6knir/U2A6CDCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/build/classes/u2a6knir/U2A6FunWithLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/src/u2a6knir/CDCalculaorJFrameTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/src/u2a6knir/FunWithLoopsJFrameTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/src/u2a6knir/U2A6CDCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A6KNir/src/u2a6knir/U2A6FunWithLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/U2A8KNir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/build/classes/u2a8knir/IdealWeightJFrameTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/build/classes/u2a8knir/U2A8IdealWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/out/production/U2A8KNir/u2a8knir/IdealWeightJFrameTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/out/production/U2A8KNir/u2a8knir/U2A8IdealWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/src/u2a8knir/IdealWeightJFrameTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2A8KNir/src/u2a8knir/U2A8IdealWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/AreaOfACircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/AreaOfARectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/BillOfSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/ChangeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/DivideAndMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/NetPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT1A1/src/u2act1a1/U2ACT1A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_Birthday$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_Birthday$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_Birthday$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_Birthday$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_Birthday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_Birthday.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_BirthdayDog$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_BirthdayDog$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_BirthdayDog$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_BirthdayDog$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_BirthdayDog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/build/classes/U2_A2_BirthdayDog.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/src/U2_A2_Birthday.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/src/U2_A2_Birthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/src/U2_A2_BirthdayDog.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2ACT2/src/U2_A2_BirthdayDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/build/classes/u2_a3_ast2/CosineLaw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/build/classes/u2_a3_ast2/Heron.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/src/u2_a3_ast2/CosineLaw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_AST2/src/u2_a3_ast2/Heron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/build/classes/u2_act3/U2_ACT3_Bill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Programs/U2_A3_KNir/src/u2_act3/U2_ACT3_Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unit 2/Reports/U2A7SoftwareDevelopment.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/unit3assignment4/Unit3Assignment4Squares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit3assignment4/Unit3Assignment4Squares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/.idea/U2A1AST2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/build/classes/u3a1ast2/U3A1AST2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3A1AST2/src/u3a1ast2/U3A1AST2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/build/classes/u3_a2knir/JFrameTesterMonogram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/build/classes/u3_a2knir/JFrameTesterPassword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/build/classes/u3_a2knir/U3A2_Monogram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/build/classes/u3_a2knir/U3A2_Password.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/src/u3_a2knir/JFrameTesterMonogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/src/u3_a2knir/JFrameTesterPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/src/u3_a2knir/U3A2_Monogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A2KNir/src/u3_a2knir/U3A2_Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/build/classes/u3_a3knir/ConvertMeJFrameTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/build/classes/u3_a3knir/U3A3_ConvertMe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/src/u3_a3knir/ConvertMeJFrameTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A3KNir/src/u3_a3knir/U3A3_ConvertMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/build/classes/u3_a4_knir/U3A4_Bubbles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/build/classes/u3_a4_knir/U3A4_Squares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/src/u3_a4_knir/U3A4_Bubbles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3_A4_KNir/src/u3_a4_knir/U3A4_Squares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reports/ConvertingNumbers1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reports/ConvertingNumbers2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reports/ConvertingNumbers3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reports/assignment1.rtf" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/unit3assignment4/Unit3Assignment4Squares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/unit3assignment4/Main.java" />
+        <option value="$PROJECT_DIR$/src/unit3assignment4/Unit3Assignment4Sqaures.java" />
+        <option value="$PROJECT_DIR$/src/unit3assignment4/Unit3Assignment4Squares.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="916" />
+    <option name="width" value="1012" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unit3assignment4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GradeConverter" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unit3Assignment4Squares">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="IntelliJ" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unit3Assignment4Squares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit3assignment4.Unit3Assignment4Squares" />
+      <module name="IntelliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit3assignment4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Unit3Assignment4Squares" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Unit3Assignment4Squares" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22dee1ae-3937-4db5-90dc-4331afff71c7" name="Default Changelist" comment="" />
+      <created>1564940702925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564940702925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="916" y="0" width="1012" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2289916" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38402626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/unit3assignment4/Unit3Assignment4Squares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

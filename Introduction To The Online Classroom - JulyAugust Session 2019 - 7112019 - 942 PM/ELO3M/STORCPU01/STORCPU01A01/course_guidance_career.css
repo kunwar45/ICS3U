@@ -1,0 +1,579 @@
+/* CUSTOM CSS CLASSES*/
+
+.customStyle3
+{
+	font-size: 15px;
+	color: #0000FF;
+}
+
+.customStyle2
+{
+	font-family: Arial;
+	color: #000000;
+}
+
+.customStyle1
+{
+	font-size: 24px;
+}
+
+
+/*PLEASE PLACE ALL CUSTOM CSS WITHIN THE DELIMITERS */
+
+
+
+
+
+
+
+
+
+
+/*END CUSTOM CSS CLASSES*/
+
+body 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	/*background: url(images/bd-bk.gif) repeat-x #ebf0ed;*/
+	background: url(images/bd-bk.gif) #efb4bb;
+	font-size: 1em;
+	background-position:bottom;
+	background-repeat:repeat-x;
+	background-attachment:fixed;
+	text-align:center;
+	margin:0px auto;
+	padding:0;
+}
+
+html 
+{
+	height: 100%;
+}
+
+li 
+{
+	line-height: 1.5em;
+	margin-left: -10px;
+}
+
+a:hover 
+{
+	text-decoration: none;
+}
+
+.note 
+{
+	color: #FF0000;
+}
+
+.header 
+{
+	background-color: #f4846b;
+	padding-left: 10px;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	background-image: url(images/header_bg.gif)
+}
+
+/* Changes */
+.globe
+{
+    width: 200px;
+    height: 100px;
+    border: none;
+    float: right;
+}
+/* /Changes */
+
+h1 
+{
+	color: #000000;
+	font-size: 1.2em;
+}
+
+h2 
+{
+	color: #000000;
+	font-size: 1.6em;
+	margin-top: -5px;	
+}
+
+h3 
+{
+	color: #000000;
+	font-size: 1.5em;
+	margin-bottom: -5px;
+}
+
+h4 
+{
+	color: #000000;
+	font-size: 1.3em;
+}
+
+h5 
+{
+	color: #000000;
+	font-size: 1.2em;
+}
+
+h6 
+{
+	color: #000000;
+	font-size: 1em;
+}
+
+blockquote 
+{
+	background: #efb4bb;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+}
+
+.normal 
+{
+	font-weight: normal;
+}
+
+.center 
+{
+	text-align: center;
+}
+
+.caption 
+{
+	font-size: 10pt;
+	color: #666666;
+	display: block; /* Change */
+}
+
+.disclaimer 
+{
+	font-size: 10pt;
+	color: #666666;
+}
+
+.discussion 
+{
+	color: #363636;
+	font-style: oblique;
+}
+
+th 
+{
+	background-color: #df6a78;
+}
+
+th.tableheading1 
+{
+	background-color: #df6a78;
+}
+
+th.tableheading2 
+{
+	background-color: #efb4bb;
+}
+
+.cellcolour1 
+{
+	background-color: #efb4bb;
+}
+
+.rowcolour1 
+{
+	background-color: #efb4bb;
+}
+
+.toolbox 
+{
+	border-color: #df6a78;
+	border-width: 2px;
+	border-style: dashed;
+	padding: 10px;
+	
+}
+
+.dropbox 
+{
+	background-color: #f7dadd;
+	border-color: #df6a78;
+	border-width: 1px;
+	border-style: dashed;
+	padding: 10px;
+	
+}
+
+.overview 
+{
+	background-color: #df6a78;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	margin: 2% 5% 2% 5%;
+}
+
+.colourbox1 
+{
+	background-color: #df6a78;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	margin: 2% 5% 2% 5%;
+}
+
+.colourbox2 
+{
+	background-color: #efb4bb;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	margin: 2% 5% 2% 5%;
+}
+
+.colourbox3 
+{
+	background-color: #f7dadd;
+	border-color: #4c8f76;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	margin: 2% 5% 2% 5%;
+}
+
+.colourbox4 
+{
+	background-color: #fcf0f1;
+	border-color: #4c8f76;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	margin: 2% 5% 2% 5%;
+}
+
+.expectations 
+{
+	background-color: #efb4bb;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	margin: 2% 5% 2% 5%;
+}
+
+.answers 
+{
+	background-color: #fce0da;
+	border-color: #f4846b;
+	border-width: 1px;
+	border-style: solid;
+	padding: 0px; /* Change */
+	vertical-align: top; /* Change */
+    width: 100%; /* Change */
+}
+
+/* Changes */
+.answers th
+{
+    background-color: #fce0da;
+    vertical-align: top;
+    width: 5%;
+}
+
+.answers td
+{
+	background-color: #fce0da;
+    vertical-align: top;
+    width: 95%;
+}
+/* /Changes */
+
+.questions 
+{
+	background-color: #f7dadd;
+	border-color: #df6a78;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+}
+
+/* Changes */
+.quest
+{
+    width: 100%;
+    background-color: White;
+}
+
+.quest th
+{
+    width: 5%;
+    vertical-align: top;
+    background-color: White;
+}
+
+.quest td
+{
+    width: 95%;
+    vertical-align: top;
+    background-color: White;
+}
+/* /Changes */
+
+hr 
+{
+	border: 0;
+	color: #818181;
+	background-color: #df6a78;
+	height: 1px;
+	width: 100%;
+	text-align: left;
+}
+
+.subNav 
+{
+	background-color: #ebebeb;
+	padding: 10px;
+	font-size: 0.75em;
+}
+
+.tableRubric 
+{
+	font-size: 0.75em;
+	width: 95%; /* Change */
+	border-collapse: collapse; /* Change */
+	margin: 0px auto 0px auto;
+}
+
+/* Changes */
+.rubricTH
+{
+    text-align: center;
+    vertical-align: top;
+	padding: 6px;
+	border: solid 1px black;
+}
+
+.tdAltRubric, .tableRubric td
+{
+    text-align: left;
+    vertical-align: top;
+	padding: 6px;
+	border: solid 1px black;
+}
+/* /Changes */
+
+.courseTitle 
+{
+	color: #000000;
+	font-size: 0.70em;
+	font-weight: bold;
+	padding-top: 8px;
+}
+
+.navbuttons 
+{
+	font-weight:bold;
+	color: #999999;
+	text-align: center;
+}
+
+.definition 
+{ 
+	color:#009900; 
+	text-decoration: underline; 
+}
+	
+.border
+{
+	border: solid 2px #000000;
+}
+
+.citation
+{
+    font-size:10pt;
+    text-align:right;
+}
+
+table.stopsign 
+{
+	width: 85%;
+	border: double 3px #f4846b;
+	border-collapse: collapse;
+	/*background-color:#FFFFFF;*/
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+/* Changes */
+table.stopsign th
+{
+	width: 58px;
+	vertical-align:top;
+	border: double 3px #f4846b;
+	padding:10px;
+	font-weight: normal;
+	background-color: White;
+}
+
+table.stopsign td
+{
+    width: 614px;
+	vertical-align:top;
+	border: double 3px #f4846b;
+	padding:10px;
+}
+/* /Changes */
+
+table.journal, table.rubric, table.requiredreading, table.quiz, table.externallink, table.enrichment, table.didyouknow, table.mmetable, table.assignmentlink, table.quiz
+{
+	width: 85%;
+	border: double 3px #df6a78;
+	border-collapse: collapse;
+	background-color: #f7dadd;
+	margin: 0px auto 0px auto; /* Change */
+}
+
+/* Changes */
+table.journal th, table.rubric th, table.requiredreading th, table.externallink th,table.enrichment th, table.didyouknow th, table.mmetable th, table.assignmentlink th, table.quiz th
+{
+	border: double 3px #df6a78;
+	padding: 10px;
+	vertical-align: top;
+	width: 5%;
+	font-weight: normal;
+}
+/* /Changes */
+
+table.journal td, table.rubric td, table.requiredreading td, table.externallink td,table.enrichment td, table.didyouknow td, table.mmetable td, table.assignmentlink td, table.quiz td
+{
+	border: double 3px #df6a78;
+	padding: 10px;
+	vertical-align: top;
+	width: 95%; /* Change */
+}
+
+.wrap 
+{
+	text-align:left;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	padding-top:5px;
+	margin:0 auto;
+	width:730px;
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+	position: relative; /* [WS]  added to help center tables without the use of the <center> tag. */
+}
+
+span.sndLink 
+{
+	color: #0000ff;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.chat 
+{
+	background: #efb4bb;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	font-style: oblique;
+	margin: 14px; /* Change */
+}
+
+/* Changes */
+.assessment
+{
+    width: 50%;
+    border-collapse: collapse;
+    margin: 0px auto 0px auto;
+    border: solid 1px black;
+}
+
+.assessment th
+{
+    text-align: center;
+    border: solid 1px black;
+    padding: 5px;
+}
+
+.assessment td
+{
+    border: solid 1px black;
+    padding: 5px;
+}
+
+.icon
+{
+    height: 42px;
+    width: 42px;
+    border: none;
+}
+
+.picturetable
+{
+    border: none;
+    border-collapse: collapse;
+    margin: 18px 0px 18px 0px;
+}
+
+.picturetable td
+{
+    vertical-align: middle;
+}
+
+.picturetable th
+{
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    font-weight: normal;
+}
+
+.teacher
+{
+    width: 100%;
+    border: none;
+    border-collapse: collapse;
+}
+
+.teacher td
+{
+    vertical-align: top;
+    padding: 5px;
+}
+/* /Changes */ 
+
+
+
+/* [WS]
+    The center tag around tables is causing text to render center aligned in IE.
+    The center tag has been removed and this class added to GridTable & DataTable.
+ */
+.CenterTable
+{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* [WS] class needed for equation images rendered from  word 2007 equations */
+.middle
+{
+    vertical-align: middle;
+} 
+
+.innerdatatable th
+{
+	background-color: #f9c1b5;
+}
