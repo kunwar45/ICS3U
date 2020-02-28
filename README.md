@@ -1,3 +1,6 @@
 # ISC3U
 
-Ontario course for Computer Science
+## My files and assignments for the ICS3U course 
+
+The ontario grade 11 university level Computer Science course. All my assignmen$
+
